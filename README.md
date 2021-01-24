@@ -1,2 +1,2 @@
 # data
-Repository for data related to the assignments
+Repository for the data files used in the Apache Flink assignments
